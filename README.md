@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JulioDelgadoL
-- 👀 I’m interested in participating in roles related to Fronend & Mobile development
+- 👀 I’m interested in participating in roles related to Frontend & Mobile development
 - 🌱 I’m currently learning React Dialogflow & Jasmine
 - 💞️ I’m looking to collaborate on any project that might catch my interest
 - 📫 How to reach me  
